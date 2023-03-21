@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ozkan Altunbas</h1>
 <h3 align="center">I'm interested in Cyber Security and Android Mobile Development</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/ozkanaltunbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozkanaltunbas" height="30" width="40" /></a>
 <a href="https://medium.com/@ozkanaltunbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ozkanaltunbas" height="30" width="40" /></a>
 </p>
